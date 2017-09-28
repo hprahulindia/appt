@@ -1,0 +1,19 @@
+{
+  "name": "appt",
+  "version": "1.0.0",
+  "description": "POC for angular with firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hprahulindia/appt.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hprahulindia/appt/issues"
+  },
+  "homepage": "https://github.com/hprahulindia/appt#readme"
+}
